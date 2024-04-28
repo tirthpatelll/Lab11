@@ -1,3 +1,10 @@
+/* 
+ * Name : Tirth Patel
+ * Course : CSCI 1302
+ * Description : Read data from a file and sort it and write to a file using binary IO
+ * Last Modified : April 27 2024
+ */
+
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
 import java.io.DataInputStream;

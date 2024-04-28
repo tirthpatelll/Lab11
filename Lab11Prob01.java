@@ -1,3 +1,10 @@
+/* 
+ * Name : Tirth Patel
+ * Course : CSCI 1302
+ * Description : Read a binary file and write the data to a file using binary IO
+ * Last Modified : April 27 2024
+ */
+
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
 import java.io.DataInputStream;

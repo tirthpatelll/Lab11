@@ -1,3 +1,10 @@
+/* 
+ * Name : Tirth Patel
+ * Course : CSCI 1302
+ * Description : Define a Person class.
+ * Last Modified : April 27 2024
+ */
+
 import java.io.Serializable;
 
 public class Person implements Comparable, Serializable {
